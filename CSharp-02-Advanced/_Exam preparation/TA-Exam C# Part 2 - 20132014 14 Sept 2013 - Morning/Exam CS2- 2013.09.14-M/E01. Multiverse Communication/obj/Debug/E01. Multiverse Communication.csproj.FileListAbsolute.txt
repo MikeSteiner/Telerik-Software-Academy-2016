@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\bin\Debug\Exam CS2- 2013.09.14-M.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\bin\Debug\Exam CS2- 2013.09.14-M.exe
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\bin\Debug\Exam CS2- 2013.09.14-M.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\obj\Debug\E01. Multiverse Communication.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\obj\Debug\Exam CS2- 2013.09.14-M.exe
+C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 14 Sept 2013 - Morning\Exam CS2- 2013.09.14-M\Exam CS2- 2013.09.14-M\obj\Debug\Exam CS2- 2013.09.14-M.pdb

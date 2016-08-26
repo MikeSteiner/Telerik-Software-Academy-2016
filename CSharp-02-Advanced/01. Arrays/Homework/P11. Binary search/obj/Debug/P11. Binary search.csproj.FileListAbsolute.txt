@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\bin\Debug\P11.Binary_search.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\bin\Debug\P11.Binary_search.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\bin\Debug\P11.Binary_search.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\obj\Debug\P11. Binary search.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\obj\Debug\P11.Binary_search.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P11. Binary search\obj\Debug\P11.Binary_search.pdb

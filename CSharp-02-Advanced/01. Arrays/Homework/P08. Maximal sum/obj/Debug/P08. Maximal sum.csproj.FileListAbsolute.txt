@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\bin\Debug\P08.Maximal_sum.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\bin\Debug\P08.Maximal_sum.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\bin\Debug\P08.Maximal_sum.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\obj\Debug\P08. Maximal sum.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\obj\Debug\P08.Maximal_sum.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P08. Maximal sum\obj\Debug\P08.Maximal_sum.pdb

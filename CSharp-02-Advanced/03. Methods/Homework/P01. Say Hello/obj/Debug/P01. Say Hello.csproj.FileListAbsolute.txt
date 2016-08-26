@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\bin\Debug\_03.Methods.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\bin\Debug\_03.Methods.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\bin\Debug\_03.Methods.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\obj\Debug\P01. Say Hello.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\obj\Debug\_03.Methods.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P01. Say Hello\obj\Debug\_03.Methods.pdb

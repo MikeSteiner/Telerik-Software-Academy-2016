@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\bin\Debug\P07.Selection_sort.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\bin\Debug\P07.Selection_sort.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\bin\Debug\P07.Selection_sort.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\obj\Debug\P07. Selection sort.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\obj\Debug\P07.Selection_sort.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P07. Selection sort\obj\Debug\P07.Selection_sort.pdb

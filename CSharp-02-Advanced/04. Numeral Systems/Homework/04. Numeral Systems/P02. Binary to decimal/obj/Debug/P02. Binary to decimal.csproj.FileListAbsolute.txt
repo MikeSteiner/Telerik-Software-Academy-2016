@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P02. Binary to decimal\bin\Debug\P02.Binary_to_decimal.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P02. Binary to decimal\bin\Debug\P02.Binary_to_decimal.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P02. Binary to decimal\bin\Debug\P02.Binary_to_decimal.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P02. Binary to decimal\obj\Debug\P02.Binary_to_decimal.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P02. Binary to decimal\obj\Debug\P02.Binary_to_decimal.pdb

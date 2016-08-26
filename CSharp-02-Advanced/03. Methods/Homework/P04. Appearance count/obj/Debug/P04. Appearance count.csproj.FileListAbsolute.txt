@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\bin\Debug\P04.Appearance_count.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\bin\Debug\P04.Appearance_count.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\bin\Debug\P04.Appearance_count.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\obj\Debug\P04. Appearance count.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\obj\Debug\P04.Appearance_count.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P04. Appearance count\obj\Debug\P04.Appearance_count.pdb

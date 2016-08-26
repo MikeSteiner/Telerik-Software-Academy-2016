@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\bin\Debug\_01.Arrays.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\bin\Debug\_01.Arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\bin\Debug\_01.Arrays.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\obj\Debug\P01. Allocate array.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\obj\Debug\_01.Arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P01. Allocate array\obj\Debug\_01.Arrays.pdb

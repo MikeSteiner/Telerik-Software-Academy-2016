@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\bin\Debug\P07.One_system_to_any_other.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\bin\Debug\P07.One_system_to_any_other.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\bin\Debug\P07.One_system_to_any_other.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\obj\Debug\P07. One system to any other.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\obj\Debug\P07.One_system_to_any_other.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P07. One system to any other\obj\Debug\P07.One_system_to_any_other.pdb

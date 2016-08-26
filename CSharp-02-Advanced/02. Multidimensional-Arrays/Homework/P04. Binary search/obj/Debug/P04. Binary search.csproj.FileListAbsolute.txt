@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\bin\Debug\P04.Binary_search.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\bin\Debug\P04.Binary_search.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\bin\Debug\P04.Binary_search.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\obj\Debug\P04. Binary search.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\obj\Debug\P04.Binary_search.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P04. Binary search\obj\Debug\P04.Binary_search.pdb

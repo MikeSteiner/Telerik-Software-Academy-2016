@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\bin\Debug\P13.Merge_sort.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\bin\Debug\P13.Merge_sort.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\bin\Debug\P13.Merge_sort.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\obj\Debug\P13.Merge_sort.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\obj\Debug\P13.Merge_sort.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P13. Merge sort\obj\Debug\P13. Merge sort.csprojResolveAssemblyReference.cache

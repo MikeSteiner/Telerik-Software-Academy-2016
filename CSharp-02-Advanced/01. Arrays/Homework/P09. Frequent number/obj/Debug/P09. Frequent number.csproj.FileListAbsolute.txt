@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\bin\Debug\P09.Frequent_number.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\bin\Debug\P09.Frequent_number.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\bin\Debug\P09.Frequent_number.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\obj\Debug\P09. Frequent number.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\obj\Debug\P09.Frequent_number.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P09. Frequent number\obj\Debug\P09.Frequent_number.pdb

@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P06. First larger than neighbours\bin\Debug\P06.First_larger_than_neighbours.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P06. First larger than neighbours\bin\Debug\P06.First_larger_than_neighbours.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P06. First larger than neighbours\bin\Debug\P06.First_larger_than_neighbours.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P06. First larger than neighbours\obj\Debug\P06.First_larger_than_neighbours.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P06. First larger than neighbours\obj\Debug\P06.First_larger_than_neighbours.pdb

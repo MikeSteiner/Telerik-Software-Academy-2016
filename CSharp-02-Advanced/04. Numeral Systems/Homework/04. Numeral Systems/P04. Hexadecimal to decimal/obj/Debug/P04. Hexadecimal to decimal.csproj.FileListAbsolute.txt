@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\bin\Debug\P04.Hexadecimal_to_decimal.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\bin\Debug\P04.Hexadecimal_to_decimal.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\bin\Debug\P04.Hexadecimal_to_decimal.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\obj\Debug\P04.Hexadecimal_to_decimal.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\obj\Debug\P04.Hexadecimal_to_decimal.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P04. Hexadecimal to decimal\obj\Debug\P04. Hexadecimal to decimal.csprojResolveAssemblyReference.cache

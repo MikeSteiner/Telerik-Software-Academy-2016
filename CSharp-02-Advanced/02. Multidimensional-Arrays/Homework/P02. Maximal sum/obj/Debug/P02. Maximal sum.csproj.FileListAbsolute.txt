@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\bin\Debug\P02.Maximal_sum.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\bin\Debug\P02.Maximal_sum.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\bin\Debug\P02.Maximal_sum.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\obj\Debug\P02. Maximal sum.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\obj\Debug\P02.Maximal_sum.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P02. Maximal sum\obj\Debug\P02.Maximal_sum.pdb

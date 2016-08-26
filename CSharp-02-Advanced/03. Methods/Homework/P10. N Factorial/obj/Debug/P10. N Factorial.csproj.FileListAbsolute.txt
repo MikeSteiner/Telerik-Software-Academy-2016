@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\bin\Debug\P10.N_Factorial.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\bin\Debug\P10.N_Factorial.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\bin\Debug\P10.N_Factorial.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\obj\Debug\P10. N Factorial.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\obj\Debug\P10.N_Factorial.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P10. N Factorial\obj\Debug\P10.N_Factorial.pdb

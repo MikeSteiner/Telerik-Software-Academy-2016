@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\bin\Debug\P14.Integer_calculations.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\bin\Debug\P14.Integer_calculations.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\bin\Debug\P14.Integer_calculations.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\obj\Debug\P14.Integer_calculations.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\obj\Debug\P14.Integer_calculations.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P14. Integer calculations\obj\Debug\P14. Integer calculations.csprojResolveAssemblyReference.cache

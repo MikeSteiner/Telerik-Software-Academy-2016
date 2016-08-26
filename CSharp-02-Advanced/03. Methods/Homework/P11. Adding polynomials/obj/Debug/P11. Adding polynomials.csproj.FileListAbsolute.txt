@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\bin\Debug\P11.Adding_polynomials.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\bin\Debug\P11.Adding_polynomials.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\bin\Debug\P11.Adding_polynomials.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\obj\Debug\P11. Adding polynomials.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\obj\Debug\P11.Adding_polynomials.exe
+C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P11. Adding polynomials\obj\Debug\P11.Adding_polynomials.pdb

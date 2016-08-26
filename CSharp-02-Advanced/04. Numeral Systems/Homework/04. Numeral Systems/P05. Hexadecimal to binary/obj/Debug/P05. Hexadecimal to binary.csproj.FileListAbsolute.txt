@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\bin\Debug\P05.Hexadecimal_to_binary.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\obj\Debug\P05. Hexadecimal to binary.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\bin\Debug\P05.Hexadecimal_to_binary.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\bin\Debug\P05.Hexadecimal_to_binary.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\obj\Debug\P05.Hexadecimal_to_binary.exe
+C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P05. Hexadecimal to binary\obj\Debug\P05.Hexadecimal_to_binary.pdb

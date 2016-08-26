@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\bin\Debug\_02.Multidimensional_Arrays.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\obj\Debug\P01. Fill the matrix.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\bin\Debug\_02.Multidimensional_Arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\bin\Debug\_02.Multidimensional_Arrays.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\obj\Debug\_02.Multidimensional_Arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P01. Fill the matrix\obj\Debug\_02.Multidimensional_Arrays.pdb

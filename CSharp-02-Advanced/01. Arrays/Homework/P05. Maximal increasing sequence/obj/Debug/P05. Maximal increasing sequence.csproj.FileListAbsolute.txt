@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\bin\Debug\P05.Maximal_increasing_sequence.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\bin\Debug\P05.Maximal_increasing_sequence.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\bin\Debug\P05.Maximal_increasing_sequence.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\obj\Debug\P05.Maximal_increasing_sequence.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\obj\Debug\P05.Maximal_increasing_sequence.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P05. Maximal increasing sequence\obj\Debug\P05. Maximal increasing sequence.csprojResolveAssemblyReference.cache

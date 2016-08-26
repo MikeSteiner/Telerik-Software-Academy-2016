@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\bin\Debug\P2.Compare_arrays.exe.config
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\bin\Debug\P2.Compare_arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\bin\Debug\P2.Compare_arrays.pdb
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\obj\Debug\P02. Compare arrays.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\obj\Debug\P2.Compare_arrays.exe
+C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P02. Compare arrays\obj\Debug\P2.Compare_arrays.pdb
