@@ -1,0 +1,8 @@
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\bin\Debug\Events.exe.config
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\bin\Debug\Events.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\bin\Debug\Events.pdb
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\bin\Debug\PowerCollections.dll
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\bin\Debug\PowerCollections.pdb
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\obj\Debug\Events.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Events\obj\Debug\Events.pdb

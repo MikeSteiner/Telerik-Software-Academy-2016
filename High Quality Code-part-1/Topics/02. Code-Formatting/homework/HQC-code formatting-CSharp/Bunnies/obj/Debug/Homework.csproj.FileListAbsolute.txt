@@ -1,0 +1,3 @@
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Homework\bin\Debug\Homework.exe.config
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\High Quality Code-part-1\Topics\02. Code-Formatting\homework\HQC-code formation-homework\Bunnies\bin\Debug\Homework.exe.config
