@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\bin\Debug\Game-Labirint.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\obj\Debug\Game-Labirint.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\bin\Debug\Game-Labirint.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\bin\Debug\Game-Labirint.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\obj\Debug\Game-Labirint.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\Games\Game-Labirint\Game-Labirint\obj\Debug\Game-Labirint.pdb

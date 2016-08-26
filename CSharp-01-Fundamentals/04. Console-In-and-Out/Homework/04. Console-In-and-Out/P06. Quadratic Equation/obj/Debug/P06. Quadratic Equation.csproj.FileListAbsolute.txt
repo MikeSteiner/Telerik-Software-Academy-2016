@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\bin\Debug\P06.Quadratic_Equation.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\bin\Debug\P06.Quadratic_Equation.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\bin\Debug\P06.Quadratic_Equation.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\obj\Debug\P06. Quadratic Equation.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\obj\Debug\P06.Quadratic_Equation.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P06. Quadratic Equation\obj\Debug\P06.Quadratic_Equation.pdb

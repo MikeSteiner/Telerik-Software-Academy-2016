@@ -1,0 +1,7 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses_Description\bin\Debug\E2.Busses_Description.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\bin\Debug\E2.Busses_Description.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\obj\Debug\E2. Busses.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\bin\Debug\E2.Busses_Description.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\bin\Debug\E2.Busses_Description.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\obj\Debug\E2.Busses_Description.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E2. Busses\obj\Debug\E2.Busses_Description.pdb

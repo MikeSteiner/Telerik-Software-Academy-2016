@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P08. Numbers from 1 to n\bin\Debug\P08.Numbers_from_1_to_n.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P08. Numbers from 1 to n\bin\Debug\P08.Numbers_from_1_to_n.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P08. Numbers from 1 to n\bin\Debug\P08.Numbers_from_1_to_n.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P08. Numbers from 1 to n\obj\Debug\P08.Numbers_from_1_to_n.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P08. Numbers from 1 to n\obj\Debug\P08.Numbers_from_1_to_n.pdb

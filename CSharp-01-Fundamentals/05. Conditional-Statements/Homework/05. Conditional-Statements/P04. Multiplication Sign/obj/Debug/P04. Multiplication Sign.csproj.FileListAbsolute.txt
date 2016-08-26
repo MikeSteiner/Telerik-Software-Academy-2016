@@ -1,0 +1,11 @@
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\obj\Debug\P04.Multiplication_Sign.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\obj\Debug\P04.Multiplication_Sign.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\obj\Debug\P04.Multiplication_Sign.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\obj\Debug\P04.Multiplication_Sign.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\bin\Debug\P04.Multiplication_Sign.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P04. Multiplication Sign\obj\Debug\P04. Multiplication Sign.csprojResolveAssemblyReference.cache

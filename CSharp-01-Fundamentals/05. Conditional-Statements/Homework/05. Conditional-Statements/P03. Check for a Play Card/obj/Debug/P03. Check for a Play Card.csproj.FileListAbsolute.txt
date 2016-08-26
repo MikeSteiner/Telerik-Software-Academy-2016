@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\bin\Debug\P03.Check_for_a_Play_Card.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\bin\Debug\P03.Check_for_a_Play_Card.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\bin\Debug\P03.Check_for_a_Play_Card.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\obj\Debug\P03. Check for a Play Card.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\obj\Debug\P03.Check_for_a_Play_Card.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P03. Check for a Play Card\obj\Debug\P03.Check_for_a_Play_Card.pdb

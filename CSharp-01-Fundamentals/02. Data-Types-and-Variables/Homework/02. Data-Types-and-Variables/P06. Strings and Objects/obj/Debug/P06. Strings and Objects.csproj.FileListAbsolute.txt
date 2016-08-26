@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P06. Strings and Objects\bin\Debug\P06.Strings_and_Objects.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P06. Strings and Objects\bin\Debug\P06.Strings_and_Objects.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P06. Strings and Objects\bin\Debug\P06.Strings_and_Objects.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P06. Strings and Objects\obj\Debug\P06.Strings_and_Objects.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P06. Strings and Objects\obj\Debug\P06.Strings_and_Objects.pdb

@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P02. Bonus Score\bin\Debug\P02.Bonus_Score.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P02. Bonus Score\bin\Debug\P02.Bonus_Score.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P02. Bonus Score\bin\Debug\P02.Bonus_Score.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P02. Bonus Score\obj\Debug\P02.Bonus_Score.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P02. Bonus Score\obj\Debug\P02.Bonus_Score.pdb

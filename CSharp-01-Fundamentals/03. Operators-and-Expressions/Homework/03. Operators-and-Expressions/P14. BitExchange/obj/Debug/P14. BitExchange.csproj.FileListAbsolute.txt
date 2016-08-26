@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\bin\Debug\P14.BitExchange.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\bin\Debug\P14.BitExchange.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\bin\Debug\P14.BitExchange.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\obj\Debug\P14. BitExchange.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\obj\Debug\P14.BitExchange.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P14. BitExchange\obj\Debug\P14.BitExchange.pdb

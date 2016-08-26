@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E1. Feathers", "E1. Feathers\E1. Feathers.csproj", "{564BA3F5-5ECF-47E0-8841-0E0EA2CCFDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2. Busses", "E2. Busses\E2. Busses.csproj", "{4A37089C-96A6-48E3-B49C-59765F6EE2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E3. Number of Digits", "E3. Number of Digits\E3. Number of Digits.csproj", "{B96A1269-2083-45E8-9901-E9C5C1ED6599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4. Batma", "E4. Batman\E4. Batma.csproj", "{3EBCEC56-C821-4657-817D-D3DDEA0E58F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E5. Bobby Avokadoto", "E5. Bobby\E5. Bobby Avokadoto.csproj", "{5CA065C8-BA55-4479-AA8F-AA9ABE1440C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4. Malkoto Kote", "E4. Malkoto Kote\E4. Malkoto Kote.csproj", "{9D98A7AD-693A-482C-9ADD-20EA0CF915DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564BA3F5-5ECF-47E0-8841-0E0EA2CCFDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564BA3F5-5ECF-47E0-8841-0E0EA2CCFDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564BA3F5-5ECF-47E0-8841-0E0EA2CCFDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564BA3F5-5ECF-47E0-8841-0E0EA2CCFDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A37089C-96A6-48E3-B49C-59765F6EE2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A37089C-96A6-48E3-B49C-59765F6EE2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A37089C-96A6-48E3-B49C-59765F6EE2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A37089C-96A6-48E3-B49C-59765F6EE2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96A1269-2083-45E8-9901-E9C5C1ED6599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96A1269-2083-45E8-9901-E9C5C1ED6599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96A1269-2083-45E8-9901-E9C5C1ED6599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96A1269-2083-45E8-9901-E9C5C1ED6599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBCEC56-C821-4657-817D-D3DDEA0E58F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBCEC56-C821-4657-817D-D3DDEA0E58F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBCEC56-C821-4657-817D-D3DDEA0E58F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBCEC56-C821-4657-817D-D3DDEA0E58F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA065C8-BA55-4479-AA8F-AA9ABE1440C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA065C8-BA55-4479-AA8F-AA9ABE1440C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA065C8-BA55-4479-AA8F-AA9ABE1440C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA065C8-BA55-4479-AA8F-AA9ABE1440C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D98A7AD-693A-482C-9ADD-20EA0CF915DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D98A7AD-693A-482C-9ADD-20EA0CF915DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D98A7AD-693A-482C-9ADD-20EA0CF915DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D98A7AD-693A-482C-9ADD-20EA0CF915DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

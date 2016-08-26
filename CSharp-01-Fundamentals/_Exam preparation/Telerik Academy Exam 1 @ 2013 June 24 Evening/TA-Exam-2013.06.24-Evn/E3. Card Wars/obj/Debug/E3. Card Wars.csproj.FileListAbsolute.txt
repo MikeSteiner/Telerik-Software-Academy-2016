@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\bin\Debug\E3.Card_Wars.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\bin\Debug\E3.Card_Wars.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\bin\Debug\E3.Card_Wars.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\obj\Debug\E3. Card Wars.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\obj\Debug\E3.Card_Wars.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E3. Card Wars\obj\Debug\E3.Card_Wars.pdb

@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P03. Variable in Hex Format\bin\Debug\P03.Variable_in_Hex_Format.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P03. Variable in Hex Format\bin\Debug\P03.Variable_in_Hex_Format.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P03. Variable in Hex Format\bin\Debug\P03.Variable_in_Hex_Format.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P03. Variable in Hex Format\obj\Debug\P03.Variable_in_Hex_Format.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P03. Variable in Hex Format\obj\Debug\P03.Variable_in_Hex_Format.pdb

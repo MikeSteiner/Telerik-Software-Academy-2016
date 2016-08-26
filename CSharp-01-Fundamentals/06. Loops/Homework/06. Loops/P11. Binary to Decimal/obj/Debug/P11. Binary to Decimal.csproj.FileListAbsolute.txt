@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P11. Binary to Decimal\bin\Debug\P11.Binary_to_Decimal.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P11. Binary to Decimal\bin\Debug\P11.Binary_to_Decimal.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P11. Binary to Decimal\bin\Debug\P11.Binary_to_Decimal.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P11. Binary to Decimal\obj\Debug\P11.Binary_to_Decimal.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P11. Binary to Decimal\obj\Debug\P11.Binary_to_Decimal.pdb

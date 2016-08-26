@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P05. Biggest of 3\bin\Debug\P05.Biggest_of_3.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P05. Biggest of 3\bin\Debug\P05.Biggest_of_3.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P05. Biggest of 3\bin\Debug\P05.Biggest_of_3.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P05. Biggest of 3\obj\Debug\P05.Biggest_of_3.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P05. Biggest of 3\obj\Debug\P05.Biggest_of_3.pdb

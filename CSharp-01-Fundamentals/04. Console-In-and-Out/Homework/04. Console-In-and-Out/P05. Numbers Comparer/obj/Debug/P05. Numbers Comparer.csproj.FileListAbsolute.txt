@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P05. Numbers Comparer\bin\Debug\P05.Numbers_Comparer.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P05. Numbers Comparer\bin\Debug\P05.Numbers_Comparer.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P05. Numbers Comparer\bin\Debug\P05.Numbers_Comparer.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P05. Numbers Comparer\obj\Debug\P05.Numbers_Comparer.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P05. Numbers Comparer\obj\Debug\P05.Numbers_Comparer.pdb

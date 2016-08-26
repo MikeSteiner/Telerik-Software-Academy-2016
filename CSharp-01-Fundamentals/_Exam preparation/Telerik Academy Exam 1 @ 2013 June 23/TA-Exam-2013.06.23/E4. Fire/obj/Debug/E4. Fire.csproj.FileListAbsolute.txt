@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\bin\Debug\E4.Fire.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\bin\Debug\E4.Fire.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\bin\Debug\E4.Fire.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\obj\Debug\E4. Fire.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\obj\Debug\E4.Fire.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E4. Fire\obj\Debug\E4.Fire.pdb

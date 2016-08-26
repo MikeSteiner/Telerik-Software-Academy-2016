@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P08. Prime Check\bin\Debug\P08.Prime_Check.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P08. Prime Check\bin\Debug\P08.Prime_Check.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P08. Prime Check\bin\Debug\P08.Prime_Check.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P08. Prime Check\obj\Debug\P08.Prime_Check.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P08. Prime Check\obj\Debug\P08.Prime_Check.pdb

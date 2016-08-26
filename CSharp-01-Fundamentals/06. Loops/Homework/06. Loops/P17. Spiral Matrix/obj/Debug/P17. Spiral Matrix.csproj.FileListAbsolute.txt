@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\bin\Debug\P17.Spiral_Matrix.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\bin\Debug\P17.Spiral_Matrix.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\bin\Debug\P17.Spiral_Matrix.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\obj\Debug\P17. Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\obj\Debug\P17.Spiral_Matrix.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P17. Spiral Matrix\obj\Debug\P17.Spiral_Matrix.pdb

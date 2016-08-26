@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P11. Bank Account Data\bin\Debug\P11.Bank_Account_Data.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P11. Bank Account Data\bin\Debug\P11.Bank_Account_Data.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P11. Bank Account Data\bin\Debug\P11.Bank_Account_Data.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P11. Bank Account Data\obj\Debug\P11.Bank_Account_Data.exe
+C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P11. Bank Account Data\obj\Debug\P11.Bank_Account_Data.pdb

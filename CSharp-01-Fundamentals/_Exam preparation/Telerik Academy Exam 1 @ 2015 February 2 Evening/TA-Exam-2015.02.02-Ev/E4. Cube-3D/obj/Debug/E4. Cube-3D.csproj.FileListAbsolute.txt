@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\bin\Debug\E4.Cube_3D.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\bin\Debug\E4.Cube_3D.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\bin\Debug\E4.Cube_3D.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\obj\Debug\E4. Cube-3D.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\obj\Debug\E4.Cube_3D.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Evening\TA-Exam-2015.02.02-Ev\E4. Cube-3D\obj\Debug\E4.Cube_3D.pdb

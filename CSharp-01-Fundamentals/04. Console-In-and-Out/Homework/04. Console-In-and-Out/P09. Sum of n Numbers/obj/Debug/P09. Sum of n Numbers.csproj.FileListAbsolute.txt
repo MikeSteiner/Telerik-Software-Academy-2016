@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P09. Sum of n Numbers\bin\Debug\P09.Sum_of_n_Numbers.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P09. Sum of n Numbers\bin\Debug\P09.Sum_of_n_Numbers.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P09. Sum of n Numbers\bin\Debug\P09.Sum_of_n_Numbers.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P09. Sum of n Numbers\obj\Debug\P09.Sum_of_n_Numbers.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P09. Sum of n Numbers\obj\Debug\P09.Sum_of_n_Numbers.pdb

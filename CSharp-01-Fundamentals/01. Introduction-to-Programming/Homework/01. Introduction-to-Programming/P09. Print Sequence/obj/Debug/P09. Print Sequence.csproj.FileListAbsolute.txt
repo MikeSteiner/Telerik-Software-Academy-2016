@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P09. Print Sequence\bin\Debug\P09.Print_Sequence.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P09. Print Sequence\bin\Debug\P09.Print_Sequence.exe
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P09. Print Sequence\bin\Debug\P09.Print_Sequence.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P09. Print Sequence\obj\Debug\P09.Print_Sequence.exe
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P09. Print Sequence\obj\Debug\P09.Print_Sequence.pdb

@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P02. Moon Gravity\bin\Debug\P02.Moon_Gravity.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P02. Moon Gravity\bin\Debug\P02.Moon_Gravity.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P02. Moon Gravity\bin\Debug\P02.Moon_Gravity.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P02. Moon Gravity\obj\Debug\P02.Moon_Gravity.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P02. Moon Gravity\obj\Debug\P02.Moon_Gravity.pdb

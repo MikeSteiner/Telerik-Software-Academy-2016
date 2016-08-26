@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\bin\Debug\P02.Company_Info.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\bin\Debug\P02.Company_Info.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\bin\Debug\P02.Company_Info.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\obj\Debug\P02. Company Info.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\obj\Debug\P02.Company_Info.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P02. Company Info\obj\Debug\P02.Company_Info.pdb

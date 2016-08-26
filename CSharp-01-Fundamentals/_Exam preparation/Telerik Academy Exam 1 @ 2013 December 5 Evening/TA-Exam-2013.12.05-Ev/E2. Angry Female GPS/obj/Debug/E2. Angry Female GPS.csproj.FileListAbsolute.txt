@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\bin\Debug\E2.Angry_Female_GPS.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\bin\Debug\E2.Angry_Female_GPS.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\bin\Debug\E2.Angry_Female_GPS.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\obj\Debug\E2. Angry Female GPS.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\obj\Debug\E2.Angry_Female_GPS.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E2. Angry Female GPS\obj\Debug\E2.Angry_Female_GPS.pdb

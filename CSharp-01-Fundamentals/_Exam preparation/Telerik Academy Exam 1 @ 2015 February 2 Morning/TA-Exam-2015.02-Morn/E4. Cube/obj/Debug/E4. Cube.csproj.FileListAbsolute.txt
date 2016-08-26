@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E4. Cube\bin\Debug\E4.Cube.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E4. Cube\bin\Debug\E4.Cube.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E4. Cube\bin\Debug\E4.Cube.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E4. Cube\obj\Debug\E4.Cube.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E4. Cube\obj\Debug\E4.Cube.pdb

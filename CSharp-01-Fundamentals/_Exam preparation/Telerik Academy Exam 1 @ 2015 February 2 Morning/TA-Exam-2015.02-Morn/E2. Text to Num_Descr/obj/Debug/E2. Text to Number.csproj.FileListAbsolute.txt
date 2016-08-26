@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\bin\Debug\E2.Text_to_Num_Descr.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\obj\Debug\E2. Text to Number.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\bin\Debug\E2.Text_to_Num_Descr.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\bin\Debug\E2.Text_to_Num_Descr.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\obj\Debug\E2.Text_to_Num_Descr.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E2. Text to Num_Descr\obj\Debug\E2.Text_to_Num_Descr.pdb

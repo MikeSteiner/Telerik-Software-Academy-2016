@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\bin\Debug\_04.Console_In_and_Out.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\bin\Debug\_04.Console_In_and_Out.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\bin\Debug\_04.Console_In_and_Out.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\obj\Debug\P01. Sum of 3 numbers.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\obj\Debug\_04.Console_In_and_Out.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P01. Sum of 3 numbers\obj\Debug\_04.Console_In_and_Out.pdb

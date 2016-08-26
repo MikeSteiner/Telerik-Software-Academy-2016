@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\bin\Debug\_Exam 2016.04.25.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\bin\Debug\_Exam 2016.04.25.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\bin\Debug\_Exam 2016.04.25.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\obj\Debug\E1. Feathers.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\obj\Debug\_Exam 2016.04.25.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E1. Feathers\obj\Debug\_Exam 2016.04.25.pdb

@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\bin\Debug\E5.Bits_to_Bits.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\bin\Debug\E5.Bits_to_Bits.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\bin\Debug\E5.Bits_to_Bits.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\obj\Debug\E5. Bits to Bits.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\obj\Debug\E5.Bits_to_Bits.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E5. Bits to Bits\obj\Debug\E5.Bits_to_Bits.pdb

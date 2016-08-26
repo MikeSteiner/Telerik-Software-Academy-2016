@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\bin\Debug\P10.Point__Circle__Rectangle.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\bin\Debug\P10.Point__Circle__Rectangle.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\bin\Debug\P10.Point__Circle__Rectangle.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\obj\Debug\P10. Point, Circle, Rectangle.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\obj\Debug\P10.Point__Circle__Rectangle.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P10. Point, Circle, Rectangle\obj\Debug\P10.Point__Circle__Rectangle.pdb

@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\bin\Debug\_05.Conditional_Statements.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\bin\Debug\_05.Conditional_Statements.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\bin\Debug\_05.Conditional_Statements.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\obj\Debug\P01. Exchange If Greater.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\obj\Debug\_05.Conditional_Statements.exe
+C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P01. Exchange If Greater\obj\Debug\_05.Conditional_Statements.pdb

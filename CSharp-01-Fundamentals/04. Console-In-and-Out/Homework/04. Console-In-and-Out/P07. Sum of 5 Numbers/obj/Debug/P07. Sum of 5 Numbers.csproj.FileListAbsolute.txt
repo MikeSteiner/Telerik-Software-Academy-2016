@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P07. Sum of 5 Numbers\bin\Debug\P07.Sum_of_5_Numbers.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P07. Sum of 5 Numbers\bin\Debug\P07.Sum_of_5_Numbers.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P07. Sum of 5 Numbers\bin\Debug\P07.Sum_of_5_Numbers.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P07. Sum of 5 Numbers\obj\Debug\P07.Sum_of_5_Numbers.exe
+C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\P07. Sum of 5 Numbers\obj\Debug\P07.Sum_of_5_Numbers.pdb

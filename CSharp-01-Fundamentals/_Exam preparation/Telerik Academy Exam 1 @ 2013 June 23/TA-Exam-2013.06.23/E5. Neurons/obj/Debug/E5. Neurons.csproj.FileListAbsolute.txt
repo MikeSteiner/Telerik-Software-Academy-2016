@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\bin\Debug\E5.Neurons.exe.config
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\obj\Debug\E5. Neurons.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\bin\Debug\E5.Neurons.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\bin\Debug\E5.Neurons.pdb
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\obj\Debug\E5.Neurons.exe
+C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E5. Neurons\obj\Debug\E5.Neurons.pdb

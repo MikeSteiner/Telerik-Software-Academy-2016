@@ -1,0 +1,6 @@
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\bin\Debug\P07.Point_in_a_circle.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\bin\Debug\P07.Point_in_a_circle.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\bin\Debug\P07.Point_in_a_circle.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\obj\Debug\P07. Point in a circle.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\obj\Debug\P07.Point_in_a_circle.exe
+C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P07. Point in a circle\obj\Debug\P07.Point_in_a_circle.pdb

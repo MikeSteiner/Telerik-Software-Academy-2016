@@ -1,0 +1,5 @@
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\05. Print Name\bin\Debug\_05.Print_Name.exe.config
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\05. Print Name\bin\Debug\_05.Print_Name.exe
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\05. Print Name\bin\Debug\_05.Print_Name.pdb
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\05. Print Name\obj\Debug\_05.Print_Name.exe
+C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\05. Print Name\obj\Debug\_05.Print_Name.pdb
