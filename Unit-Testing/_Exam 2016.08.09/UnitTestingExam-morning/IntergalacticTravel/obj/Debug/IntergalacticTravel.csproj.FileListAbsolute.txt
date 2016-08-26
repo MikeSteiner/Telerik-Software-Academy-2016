@@ -1,0 +1,5 @@
+C:\Academies\Telerik\Unit-Testing\_Exam 2016.08.09\UnitTestingExam-morning\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+C:\Academies\Telerik\Unit-Testing\_Exam 2016.08.09\UnitTestingExam-morning\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+C:\Academies\Telerik\Unit-Testing\_Exam 2016.08.09\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\_Exam 2016.08.09\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+C:\Academies\Telerik\Unit-Testing\_Exam 2016.08.09\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb

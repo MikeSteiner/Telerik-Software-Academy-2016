@@ -1,0 +1,15 @@
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\FurnitureUnitTest.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\FurnitureUnitTest.pdb
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\obj\Debug\FurnitureManufacturer.UnitTest.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\obj\Debug\FurnitureUnitTest.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\obj\Debug\FurnitureUnitTest.pdb
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Castle.Core.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Furnitures.exe
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Moq.dll
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Furnitures.pdb
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Castle.Core.xml
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\Furniture-UnitTest\FurnitureManufacturerUnitTest\bin\Debug\Moq.xml

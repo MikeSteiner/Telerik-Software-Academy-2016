@@ -1,0 +1,16 @@
+insert Marine marine
+insert Dog dog
+insert Queen queen
+insert Parasite parasite
+insert Tank tank
+supplement Weapon marine
+supplement Weapon marine
+supplement Weapon marine
+supplement Weapon marine
+supplement Weapon tank
+supplement Weapon parasite
+supplement Weapon dog
+status
+proceed
+status
+end

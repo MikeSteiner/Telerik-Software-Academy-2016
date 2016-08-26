@@ -1,0 +1,9 @@
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\obj\Debug\Cosmetics.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\05. Workshop\MyCosmeticsTest\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Doing\MyCosmeticsTest\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Doing\MyCosmeticsTest\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Doing\MyCosmeticsTest\Cosmetics\obj\Debug\Cosmetics.pdb

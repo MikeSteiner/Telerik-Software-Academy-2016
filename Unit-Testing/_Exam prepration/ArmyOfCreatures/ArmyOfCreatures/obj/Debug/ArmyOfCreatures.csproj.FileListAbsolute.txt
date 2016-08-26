@@ -1,0 +1,6 @@
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe.config
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.pdb
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.exe
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\ArmyOfCreatures\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.pdb

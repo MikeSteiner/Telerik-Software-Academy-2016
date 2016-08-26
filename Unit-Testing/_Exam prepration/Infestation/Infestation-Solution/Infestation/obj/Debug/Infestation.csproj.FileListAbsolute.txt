@@ -1,0 +1,5 @@
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation-Evening\Infestation\Infestation-Solution\Infestation\bin\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation-Evening\Infestation\Infestation-Solution\Infestation\bin\Debug\Infestation.pdb
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation-Evening\Infestation\Infestation-Solution\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation-Evening\Infestation\Infestation-Solution\Infestation\obj\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation-Evening\Infestation\Infestation-Solution\Infestation\obj\Debug\Infestation.pdb

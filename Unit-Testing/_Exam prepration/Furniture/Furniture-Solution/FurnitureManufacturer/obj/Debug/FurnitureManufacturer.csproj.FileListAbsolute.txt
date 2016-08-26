@@ -1,0 +1,1 @@
+C:\Academies\Telerik\Unit-Testing\_Exam prepration\Furniture\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\Furnitures.exe.config

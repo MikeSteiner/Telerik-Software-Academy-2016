@@ -1,0 +1,11 @@
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\PackerHomework.dll
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\PackerHomework.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Poker.exe
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Poker.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\obj\Debug\Packer.Test.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\obj\Debug\PackerHomework.dll
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\obj\Debug\PackerHomework.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

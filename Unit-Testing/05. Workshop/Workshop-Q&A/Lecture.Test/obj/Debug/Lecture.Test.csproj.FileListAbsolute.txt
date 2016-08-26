@@ -1,0 +1,12 @@
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\obj\Debug\Lecture.Test.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Lecture.Test.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Lecture.Test.pdb
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Castle.Core.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Lecture.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Moq.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Lecture.pdb
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Castle.Core.xml
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\bin\Debug\Moq.xml
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\obj\Debug\Lecture.Test.dll
+C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture.Test\obj\Debug\Lecture.Test.pdb

@@ -1,0 +1,7 @@
+Parasite parasite2 (Biological) [Health: 1, Power: 0, Aggression: 21, Supplements: [InfestationSpores]]
+Parasite parasite3 (Biological) [Health: 1, Power: 1, Aggression: 1, Supplements: []]
+Queen queen1 (Psionic) [Health: 26, Power: 1, Aggression: 1, Supplements: []]
+Queen queen2 (Psionic) [Health: 30, Power: 1, Aggression: 1, Supplements: []]
+Queen queen3 (Psionic) [Health: 30, Power: 1, Aggression: 1, Supplements: []]
+Tank tank (Mechanical) [Health: 20, Power: 24, Aggression: 45, Supplements: [InfestationSpores, InfestationSpores, InfestationSpores]]
+Marine marine (Biological) [Health: 10, Power: 4, Aggression: 1, Supplements: [WeaponrySkill]]

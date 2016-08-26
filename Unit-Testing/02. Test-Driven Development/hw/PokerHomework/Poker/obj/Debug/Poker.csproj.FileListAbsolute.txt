@@ -1,0 +1,4 @@
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer\bin\Debug\Poker.exe
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer\bin\Debug\Poker.pdb
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer\obj\Debug\Poker.exe
+C:\Academies\Telerik\Unit-Testing\Topics\02. Test-Driven Development\homewrok\PackerHomework\Packer\obj\Debug\Poker.pdb
