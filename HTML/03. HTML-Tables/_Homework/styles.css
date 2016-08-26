@@ -1,0 +1,71 @@
+body {
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    color: balck;
+    background-color: #FFFFFF
+}
+
+h1 {
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    margin-bottom: 0px
+}
+
+.h1_added_styles{
+  width: 510px;
+  padding: 5px 0 5px 0;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  background-color: #2C5C10
+}
+
+.t1_col_1{
+  width: 310px
+}
+
+.t1_col_2{
+  width: 200px
+}
+
+.t2_head{
+  border: 1px solid #42300E;
+  font-weight: bold;
+  text-align: center;
+  background-color: #C0C0C0
+}
+.t2_body{
+  border: 1px solid green;
+  text-align: center
+}
+.t2_colgroup{
+  width: 100px
+}
+.t2_footer{
+  border: 1px solid #FF0000;
+  font-weight: italic;
+  text-align: center;
+  background-color: #B89C52
+}
+
+
+
+.t3_colgroup{
+  width: 125px
+}
+.t3_rolgroup{
+  height: 125px
+}
+.t3_body{
+  border: 5px solid green;
+  font-size: 45px;
+  font-weight: bold;
+  text-shadow: 1px 1px #FF6A00;
+  text-align: center
+}
+
+
+
+footer {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted
+}

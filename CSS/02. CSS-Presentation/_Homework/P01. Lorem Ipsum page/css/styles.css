@@ -1,0 +1,38 @@
+﻿/*  reset styles  */
+div, h1, p, ul, header, footer {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 15px;
+    font-family: Consolas, Edwardian Script ITC;
+    color: #0094ff;
+}
+
+@font-face{
+    font-family: Old_English;
+    src: url('../fonts/Old English.ttf');
+}
+
+@font-face{
+    font-family: Old_Script;
+    src: url('../fonts/Old Script.ttf');
+}
+
+h2{
+    font-weight: normal;
+}
+h2::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Old_English, Consolas, Edwardian Script ITC;
+}
+
+p::first-line{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Old_Script;
+}
+
+
