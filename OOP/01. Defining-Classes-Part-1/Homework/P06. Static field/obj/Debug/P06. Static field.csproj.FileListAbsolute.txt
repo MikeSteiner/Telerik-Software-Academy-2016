@@ -1,0 +1,5 @@
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P06. Static field\bin\Debug\P06.Static_field.exe.config
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P06. Static field\bin\Debug\P06.Static_field.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P06. Static field\bin\Debug\P06.Static_field.pdb
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P06. Static field\obj\Debug\P06.Static_field.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P06. Static field\obj\Debug\P06.Static_field.pdb

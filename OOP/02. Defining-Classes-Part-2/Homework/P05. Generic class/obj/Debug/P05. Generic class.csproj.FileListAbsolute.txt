@@ -1,0 +1,8 @@
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\bin\Debug\P05.Generic_class.exe.config
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\bin\Debug\P05.Generic_class.exe
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\bin\Debug\P05.Generic_class.pdb
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\obj\Debug\P05. Generic class.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\obj\Debug\P05.Generic_class.exe
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\obj\Debug\P05.Generic_class.pdb
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\bin\Debug\P01.Coordinate_system.exe
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P05. Generic class\bin\Debug\P01.Coordinate_system.pdb

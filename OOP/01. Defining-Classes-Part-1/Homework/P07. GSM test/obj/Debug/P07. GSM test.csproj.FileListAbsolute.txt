@@ -1,0 +1,6 @@
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\bin\Debug\P07.GSM_test.exe.config
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\obj\Debug\P07. GSM test.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\bin\Debug\P07.GSM_test.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\bin\Debug\P07.GSM_test.pdb
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\obj\Debug\P07.GSM_test.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P07. GSM test\obj\Debug\P07.GSM_test.pdb

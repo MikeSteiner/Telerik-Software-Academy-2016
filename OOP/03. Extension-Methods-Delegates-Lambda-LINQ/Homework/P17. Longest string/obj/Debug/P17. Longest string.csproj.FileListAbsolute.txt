@@ -1,0 +1,8 @@
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\bin\Debug\P17.Longest_string.exe.config
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\bin\Debug\P17.Longest_string.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\bin\Debug\P17.Longest_string.pdb
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\bin\Debug\P09.Student_groups.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\bin\Debug\P09.Student_groups.pdb
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\obj\Debug\P17. Longest string.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\obj\Debug\P17.Longest_string.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P17. Longest string\obj\Debug\P17.Longest_string.pdb

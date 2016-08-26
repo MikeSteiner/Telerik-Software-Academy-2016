@@ -1,0 +1,6 @@
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\bin\Debug\_03.Ext_Meth_Delegates_Lam_LINQ.exe.config
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\bin\Debug\_03.Ext_Meth_Delegates_Lam_LINQ.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\bin\Debug\_03.Ext_Meth_Delegates_Lam_LINQ.pdb
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\obj\Debug\P01. StringBuilder.Substring.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\obj\Debug\_03.Ext_Meth_Delegates_Lam_LINQ.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P01. StringBuilder.Substring\obj\Debug\_03.Ext_Meth_Delegates_Lam_LINQ.pdb

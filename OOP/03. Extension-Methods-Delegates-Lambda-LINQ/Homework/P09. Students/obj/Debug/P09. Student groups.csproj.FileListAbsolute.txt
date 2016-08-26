@@ -1,0 +1,6 @@
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\bin\Debug\P09.Student_groups.exe.config
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\bin\Debug\P09.Student_groups.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\bin\Debug\P09.Student_groups.pdb
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\obj\Debug\P09. Student groups.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\obj\Debug\P09.Student_groups.exe
+C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P09. Student groups\obj\Debug\P09.Student_groups.pdb

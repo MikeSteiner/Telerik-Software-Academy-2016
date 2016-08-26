@@ -1,0 +1,6 @@
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\bin\Debug\P01.Coordinate_system.exe.config
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\bin\Debug\P01.Coordinate_system.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\bin\Debug\P01.Coordinate_system.pdb
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\obj\Debug\P01. Coordinate system.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\obj\Debug\P01.Coordinate_system.exe
+C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Coordinate system\obj\Debug\P01.Coordinate_system.pdb

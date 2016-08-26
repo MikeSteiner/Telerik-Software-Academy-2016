@@ -1,0 +1,9 @@
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\bin\Debug\P08.Matrix.exe.config
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\bin\Debug\P08.Matrix.exe
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\bin\Debug\P08.Matrix.pdb
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\obj\Debug\P08. Matrix.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\obj\Debug\P08.Matrix.exe
+C:\Academies\Telerik\OOP\02. Defining-Classes-Part-2\Homework\02. Defining-Classes-Part-2\P08. Matrix\obj\Debug\P08.Matrix.pdb
+C:\Academies\Git\Telerik-Software-Academy-2016\OOP\02. Defining-Classes-Part-2\Homework\P08. Matrix\bin\Debug\P08.Matrix.exe.config
+C:\Academies\Git\Telerik-Software-Academy-2016\OOP\02. Defining-Classes-Part-2\Homework\P08. Matrix\obj\Debug\P08.Matrix.exe
+C:\Academies\Git\Telerik-Software-Academy-2016\OOP\02. Defining-Classes-Part-2\Homework\P08. Matrix\obj\Debug\P08.Matrix.pdb
