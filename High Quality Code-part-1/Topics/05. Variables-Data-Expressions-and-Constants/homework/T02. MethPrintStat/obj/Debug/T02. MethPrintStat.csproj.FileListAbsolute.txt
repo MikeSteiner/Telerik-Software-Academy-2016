@@ -1,0 +1,4 @@
+C:\Academies\Telerik\High Quality Code-part-1\Topics\05. Variables-Data-Expressions-and-Constants\homework\VariablesDataExpressionsConstants\T02. MethPrintStat\bin\Debug\T02.MethPrintStat.dll
+C:\Academies\Telerik\High Quality Code-part-1\Topics\05. Variables-Data-Expressions-and-Constants\homework\VariablesDataExpressionsConstants\T02. MethPrintStat\bin\Debug\T02.MethPrintStat.pdb
+C:\Academies\Telerik\High Quality Code-part-1\Topics\05. Variables-Data-Expressions-and-Constants\homework\VariablesDataExpressionsConstants\T02. MethPrintStat\obj\Debug\T02.MethPrintStat.dll
+C:\Academies\Telerik\High Quality Code-part-1\Topics\05. Variables-Data-Expressions-and-Constants\homework\VariablesDataExpressionsConstants\T02. MethPrintStat\obj\Debug\T02.MethPrintStat.pdb
