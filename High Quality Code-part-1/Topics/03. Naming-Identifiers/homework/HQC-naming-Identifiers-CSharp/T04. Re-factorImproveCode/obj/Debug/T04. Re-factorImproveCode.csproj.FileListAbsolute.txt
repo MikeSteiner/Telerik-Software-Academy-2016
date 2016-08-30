@@ -1,0 +1,5 @@
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T04. Re-factorImproveCode\bin\Debug\Minesweeper.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T04. Re-factorImproveCode\bin\Debug\Minesweeper.pdb
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T04. Re-factorImproveCode\obj\Debug\T04. Re-factorImproveCode.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T04. Re-factorImproveCode\obj\Debug\Minesweeper.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T04. Re-factorImproveCode\obj\Debug\Minesweeper.pdb

@@ -1,0 +1,6 @@
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\bin\Debug\T02.Make_Чуек.exe.config
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\bin\Debug\T02.Make_Чуек.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\bin\Debug\T02.Make_Чуек.pdb
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\obj\Debug\T02. Make_Чуек.csprojResolveAssemblyReference.cache
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\obj\Debug\T02.Make_Чуек.exe
+C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T02. Make_Чуек\obj\Debug\T02.Make_Чуек.pdb
