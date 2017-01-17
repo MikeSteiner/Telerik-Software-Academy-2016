@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Coloring Game</title>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/kineticjs/5.2.0/kinetic.min.js"></script>
+      <script src="jquery.min.js"></script>
+      <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
+    <!--<script src="JS Files/side-manager.js"></script>-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header"></div>
+      <div class="sidebar-images"></div>
+      <canvas id="main-drawing-window"></canvas>
+      <img class="front" src="./images/image1.png" alt="" />
+      <div class="tools"></div>
+    </div>
+
+
+    <script type="text/javascript" src="./JS files/canvas-draw.js"></script>
+    <script type="text/javascript" src="JS files/side-manager.js"></script>
+    <script>
+      $(function () {
+        $().startingSideBar();
+      });
+    </script>
+
+  </body>
+</html>
