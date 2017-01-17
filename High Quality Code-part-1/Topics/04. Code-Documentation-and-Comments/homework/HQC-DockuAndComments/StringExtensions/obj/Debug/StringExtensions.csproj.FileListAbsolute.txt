@@ -1,4 +1,0 @@
-C:\Academies\Telerik\High Quality Code-part-1\Topics\04. Code-Documentation-and-Comments\homework\HQC-DockuAndComments\StringExtensions\bin\Debug\StringExtensions.dll
-C:\Academies\Telerik\High Quality Code-part-1\Topics\04. Code-Documentation-and-Comments\homework\HQC-DockuAndComments\StringExtensions\bin\Debug\StringExtensions.pdb
-C:\Academies\Telerik\High Quality Code-part-1\Topics\04. Code-Documentation-and-Comments\homework\HQC-DockuAndComments\StringExtensions\obj\Debug\StringExtensions.dll
-C:\Academies\Telerik\High Quality Code-part-1\Topics\04. Code-Documentation-and-Comments\homework\HQC-DockuAndComments\StringExtensions\obj\Debug\StringExtensions.pdb

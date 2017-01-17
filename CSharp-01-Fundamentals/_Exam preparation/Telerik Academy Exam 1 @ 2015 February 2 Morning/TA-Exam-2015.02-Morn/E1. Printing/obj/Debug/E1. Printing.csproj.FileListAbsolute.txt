@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E1. Printing\bin\Debug\TA-Exam-2015.02-Morn.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E1. Printing\bin\Debug\TA-Exam-2015.02-Morn.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E1. Printing\bin\Debug\TA-Exam-2015.02-Morn.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E1. Printing\obj\Debug\TA-Exam-2015.02-Morn.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2 February 2015 Morning\TA-Exam-2015.02-Morn\E1. Printing\obj\Debug\TA-Exam-2015.02-Morn.pdb

@@ -1,2 +1,0 @@
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe.config
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P01. Define class\bin\Debug\_01.Defining_Classes_Part_1.exe.config

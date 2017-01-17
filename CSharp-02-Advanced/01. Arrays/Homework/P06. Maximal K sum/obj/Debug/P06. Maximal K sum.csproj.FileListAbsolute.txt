@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P06. Maximal K sum\bin\Debug\P06.Maximal_K_sum.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P06. Maximal K sum\bin\Debug\P06.Maximal_K_sum.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P06. Maximal K sum\bin\Debug\P06.Maximal_K_sum.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P06. Maximal K sum\obj\Debug\P06.Maximal_K_sum.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P06. Maximal K sum\obj\Debug\P06.Maximal_K_sum.pdb

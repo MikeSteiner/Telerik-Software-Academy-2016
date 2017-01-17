@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\bin\Debug\P03.Sequence_in_matrix.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\bin\Debug\P03.Sequence_in_matrix.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\bin\Debug\P03.Sequence_in_matrix.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\obj\Debug\P03. Sequence in matrix.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\obj\Debug\P03.Sequence_in_matrix.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P03. Sequence in matrix\obj\Debug\P03.Sequence_in_matrix.pdb

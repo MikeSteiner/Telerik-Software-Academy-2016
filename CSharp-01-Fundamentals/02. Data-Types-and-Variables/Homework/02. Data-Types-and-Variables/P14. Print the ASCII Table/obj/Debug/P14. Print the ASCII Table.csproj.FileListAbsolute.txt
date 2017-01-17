@@ -1,8 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\bin\Debug\P14.Print_the_ASCII_Table.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\bin\Debug\P14.Print_the_ASCII_Table.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\bin\Debug\P14.Print_the_ASCII_Table.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\obj\Debug\P14.Print_the_ASCII_Table.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\obj\Debug\P14.Print_the_ASCII_Table.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\bin\Debug\P14.Print_the_ASCII_Table.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\obj\Debug\P14.Print_the_ASCII_Table.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P14. Print the ASCII Table\obj\Debug\P14.Print_the_ASCII_Table.pdb

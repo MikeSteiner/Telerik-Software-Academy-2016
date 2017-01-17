@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\bin\Debug\_02.Data_Types_and_Variables.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\bin\Debug\_02.Data_Types_and_Variables.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\bin\Debug\_02.Data_Types_and_Variables.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\obj\Debug\P01. Declare Variables.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\obj\Debug\_02.Data_Types_and_Variables.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\02. Data-Types-and-Variables\obj\Debug\_02.Data_Types_and_Variables.pdb

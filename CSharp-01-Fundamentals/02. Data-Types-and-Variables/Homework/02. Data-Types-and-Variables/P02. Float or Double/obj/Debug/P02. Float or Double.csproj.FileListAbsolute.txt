@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P02. Float or Double\bin\Debug\P02.Float_or_Double.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P02. Float or Double\bin\Debug\P02.Float_or_Double.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P02. Float or Double\bin\Debug\P02.Float_or_Double.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P02. Float or Double\obj\Debug\P02.Float_or_Double.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P02. Float or Double\obj\Debug\P02.Float_or_Double.pdb

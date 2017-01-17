@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\bin\Debug\P18.Remove_elements_from_array.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\bin\Debug\P18.Remove_elements_from_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\bin\Debug\P18.Remove_elements_from_array.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\obj\Debug\P18.Remove_elements_from_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\obj\Debug\P18.Remove_elements_from_array.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P18. Remove elements from array\obj\Debug\P18. Remove elements from array.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P13. Decimal to Hex\bin\Debug\P13.Decimal_to_Hex.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P13. Decimal to Hex\bin\Debug\P13.Decimal_to_Hex.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P13. Decimal to Hex\bin\Debug\P13.Decimal_to_Hex.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P13. Decimal to Hex\obj\Debug\P13.Decimal_to_Hex.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P13. Decimal to Hex\obj\Debug\P13.Decimal_to_Hex.pdb

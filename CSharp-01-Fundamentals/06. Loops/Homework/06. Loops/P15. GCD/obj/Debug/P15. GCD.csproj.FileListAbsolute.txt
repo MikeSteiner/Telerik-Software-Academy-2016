@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\bin\Debug\P15.GCD.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\bin\Debug\P15.GCD.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\bin\Debug\P15.GCD.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\obj\Debug\P15. GCD.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\obj\Debug\P15.GCD.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P15. GCD\obj\Debug\P15.GCD.pdb

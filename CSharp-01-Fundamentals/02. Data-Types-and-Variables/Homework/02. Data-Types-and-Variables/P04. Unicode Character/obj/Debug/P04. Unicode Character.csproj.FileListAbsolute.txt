@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P04. Unicode Character\bin\Debug\P04.Unicode_Character.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P04. Unicode Character\bin\Debug\P04.Unicode_Character.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P04. Unicode Character\bin\Debug\P04.Unicode_Character.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P04. Unicode Character\obj\Debug\P04.Unicode_Character.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P04. Unicode Character\obj\Debug\P04.Unicode_Character.pdb

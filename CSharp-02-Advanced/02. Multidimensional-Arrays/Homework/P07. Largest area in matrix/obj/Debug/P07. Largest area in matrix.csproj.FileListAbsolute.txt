@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\bin\Debug\P07.Largest_area_in_matrix.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\bin\Debug\P07.Largest_area_in_matrix.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\bin\Debug\P07.Largest_area_in_matrix.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\obj\Debug\P07. Largest area in matrix.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\obj\Debug\P07.Largest_area_in_matrix.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P07. Largest area in matrix\obj\Debug\P07.Largest_area_in_matrix.pdb

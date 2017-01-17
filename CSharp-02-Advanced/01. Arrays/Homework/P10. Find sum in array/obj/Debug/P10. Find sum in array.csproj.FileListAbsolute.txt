@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\bin\Debug\P10.Find_sum_in_array.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\bin\Debug\P10.Find_sum_in_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\bin\Debug\P10.Find_sum_in_array.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\obj\Debug\P10. Find sum in array.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\obj\Debug\P10.Find_sum_in_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P10. Find sum in array\obj\Debug\P10.Find_sum_in_array.pdb

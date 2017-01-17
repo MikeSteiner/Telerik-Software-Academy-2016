@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\bin\Debug\P16.Long_Sequence.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\bin\Debug\P16.Long_Sequence.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\bin\Debug\P16.Long_Sequence.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\obj\Debug\P16. Long Sequence.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\obj\Debug\P16.Long_Sequence.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P16. Long Sequence\obj\Debug\P16.Long_Sequence.pdb

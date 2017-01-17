@@ -1,9 +1,0 @@
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\P01. Students and courses\obj\Debug\School.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\P01. Students and courses\bin\Debug\P01.Students_and_courses.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\P01. Students and courses\bin\Debug\P01.Students_and_courses.pdb
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\P01. Students and courses\obj\Debug\P01.Students_and_courses.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\P01. Students and courses\obj\Debug\P01.Students_and_courses.pdb
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School\bin\Debug\P01.Students_and_courses.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School\bin\Debug\P01.Students_and_courses.pdb
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School\obj\Debug\P01.Students_and_courses.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School\obj\Debug\P01.Students_and_courses.pdb

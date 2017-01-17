@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P14. Current Date and Time\bin\Debug\P14.Current_Date_and_Time.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P14. Current Date and Time\bin\Debug\P14.Current_Date_and_Time.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P14. Current Date and Time\bin\Debug\P14.Current_Date_and_Time.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P14. Current Date and Time\obj\Debug\P14.Current_Date_and_Time.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P14. Current Date and Time\obj\Debug\P14.Current_Date_and_Time.pdb

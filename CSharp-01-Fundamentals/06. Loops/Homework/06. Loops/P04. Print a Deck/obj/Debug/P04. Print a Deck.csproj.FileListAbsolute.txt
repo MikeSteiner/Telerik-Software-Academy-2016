@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\bin\Debug\P04.Print_a_Deck.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\bin\Debug\P04.Print_a_Deck.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\bin\Debug\P04.Print_a_Deck.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\obj\Debug\P04.Print_a_Deck.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\obj\Debug\P04.Print_a_Deck.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P04. Print a Deck\obj\Debug\P04. Print a Deck.csprojResolveAssemblyReference.cache

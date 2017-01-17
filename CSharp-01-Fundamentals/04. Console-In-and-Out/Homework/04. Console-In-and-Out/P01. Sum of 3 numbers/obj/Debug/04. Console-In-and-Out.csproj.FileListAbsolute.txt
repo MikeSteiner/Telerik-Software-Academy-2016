@@ -1,1 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\04. Console-In-and-Out\Homework\04. Console-In-and-Out\04. Console-In-and-Out\bin\Debug\_04.Console_In_and_Out.exe.config

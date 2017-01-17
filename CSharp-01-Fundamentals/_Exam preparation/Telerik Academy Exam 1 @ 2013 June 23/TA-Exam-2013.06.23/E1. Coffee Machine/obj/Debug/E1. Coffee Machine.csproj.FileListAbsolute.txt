@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\bin\Debug\E1.Coffee_Machine.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\bin\Debug\E1.Coffee_Machine.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\bin\Debug\E1.Coffee_Machine.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\obj\Debug\E1. Coffee Machine.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\obj\Debug\E1.Coffee_Machine.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 23 June 2013\TA-Exam-2013.06.23\E1. Coffee Machine\obj\Debug\E1.Coffee_Machine.pdb

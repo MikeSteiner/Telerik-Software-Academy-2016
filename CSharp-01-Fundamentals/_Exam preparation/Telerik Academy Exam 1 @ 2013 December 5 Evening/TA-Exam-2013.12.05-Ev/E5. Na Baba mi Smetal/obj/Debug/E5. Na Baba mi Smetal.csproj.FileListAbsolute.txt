@@ -1,2 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E5. Na Baba mi Smetal\bin\Debug\E5.Na_Baba_mi_Smetal.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2013 December 5 Evening\TA-Exam-2013.12.05-Ev\E5. Na Baba mi Smetal\bin\Debug\E5.Na_Baba_mi_Smetal.exe.config

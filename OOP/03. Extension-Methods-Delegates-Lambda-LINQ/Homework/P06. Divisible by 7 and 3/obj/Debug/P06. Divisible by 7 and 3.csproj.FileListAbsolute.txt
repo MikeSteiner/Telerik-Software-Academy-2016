@@ -1,6 +1,0 @@
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\bin\Debug\P06.Divisible_by_7_and_3.exe.config
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\bin\Debug\P06.Divisible_by_7_and_3.exe
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\bin\Debug\P06.Divisible_by_7_and_3.pdb
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\obj\Debug\P06. Divisible by 7 and 3.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\obj\Debug\P06.Divisible_by_7_and_3.exe
-C:\Academies\Telerik\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Ext-Meth-Delegates-Lam-LINQ\P06. Divisible by 7 and 3\obj\Debug\P06.Divisible_by_7_and_3.pdb

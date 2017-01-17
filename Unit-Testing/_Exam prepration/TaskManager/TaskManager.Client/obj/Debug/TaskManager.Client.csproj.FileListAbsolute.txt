@@ -1,8 +1,0 @@
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\bin\Debug\TaskManager.Client.exe.config
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\bin\Debug\TaskManager.Client.exe
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\bin\Debug\TaskManager.Client.pdb
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\bin\Debug\TaskManager.dll
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\bin\Debug\TaskManager.pdb
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\obj\Debug\TaskManager.Client.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\obj\Debug\TaskManager.Client.exe
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\TaskManager\TaskManager.Client\obj\Debug\TaskManager.Client.pdb

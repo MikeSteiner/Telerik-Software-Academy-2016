@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\bin\Debug\TA-Exam-2012.12.27.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\bin\Debug\TA-Exam-2012.12.27.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\bin\Debug\TA-Exam-2012.12.27.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\obj\Debug\E1. Next Date.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\obj\Debug\TA-Exam-2012.12.27.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E1. Next Date\obj\Debug\TA-Exam-2012.12.27.pdb

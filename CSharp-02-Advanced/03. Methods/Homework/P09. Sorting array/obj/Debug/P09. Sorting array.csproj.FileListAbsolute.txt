@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P09. Sorting array\bin\Debug\P09.Sorting_array.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P09. Sorting array\bin\Debug\P09.Sorting_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P09. Sorting array\bin\Debug\P09.Sorting_array.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P09. Sorting array\obj\Debug\P09.Sorting_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P09. Sorting array\obj\Debug\P09.Sorting_array.pdb

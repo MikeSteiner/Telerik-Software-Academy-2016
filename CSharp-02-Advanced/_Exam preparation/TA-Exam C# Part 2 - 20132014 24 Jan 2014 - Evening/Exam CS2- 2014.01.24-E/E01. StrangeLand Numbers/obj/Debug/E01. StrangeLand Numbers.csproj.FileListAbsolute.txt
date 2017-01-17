@@ -1,9 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\bin\Debug\Exam CS2- 2014.01.24-E.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\bin\Debug\Exam CS2- 2014.01.24-E.exe
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\bin\Debug\Exam CS2- 2014.01.24-E.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\obj\Debug\E01. StrangeLand Numbers.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\obj\Debug\Exam CS2- 2014.01.24-E.exe
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\Exam CS2- 2014.01.24-E\obj\Debug\Exam CS2- 2014.01.24-E.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\E01. StrangeLand Numbers\bin\Debug\Exam CS2- 2014.01.24-E.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\E01. StrangeLand Numbers\obj\Debug\Exam CS2- 2014.01.24-E.exe
-C:\Academies\Telerik\CSharp-02-Advanced\_Exam preparation\TA-Exam C# Part 2 - 20132014 24 Jan 2014 - Evening\Exam CS2- 2014.01.24-E\E01. StrangeLand Numbers\obj\Debug\Exam CS2- 2014.01.24-E.pdb

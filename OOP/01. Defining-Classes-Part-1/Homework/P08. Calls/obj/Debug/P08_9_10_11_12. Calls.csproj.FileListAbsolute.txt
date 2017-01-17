@@ -1,6 +1,0 @@
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\bin\Debug\P08.Calls.exe.config
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\bin\Debug\P08.Calls.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\bin\Debug\P08.Calls.pdb
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\obj\Debug\P08_9_10_11_12. Calls.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\obj\Debug\P08.Calls.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P08. Calls\obj\Debug\P08.Calls.pdb

@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\bin\Debug\P02.Not_Divisible_Numbers.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\bin\Debug\P02.Not_Divisible_Numbers.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\bin\Debug\P02.Not_Divisible_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\bin\Debug\P02.Not_Divisible_Numbers.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\obj\Debug\P02.Not_Divisible_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P02. Not Divisible Numbers\obj\Debug\P02.Not_Divisible_Numbers.pdb

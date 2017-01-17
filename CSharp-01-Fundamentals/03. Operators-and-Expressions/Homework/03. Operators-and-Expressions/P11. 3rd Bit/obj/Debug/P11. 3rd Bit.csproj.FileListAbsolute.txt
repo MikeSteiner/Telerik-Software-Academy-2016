@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\bin\Debug\P11. 3rd Bit.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\bin\Debug\P11. 3rd Bit.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\bin\Debug\P11. 3rd Bit.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\obj\Debug\P11. 3rd Bit.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\obj\Debug\P11. 3rd Bit.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P11. 3rd Bit\obj\Debug\P11. 3rd Bit.pdb

@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\bin\Debug\P05.Sort_by_string_length.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\bin\Debug\P05.Sort_by_string_length.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\bin\Debug\P05.Sort_by_string_length.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\obj\Debug\P05. Sort by string length.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\obj\Debug\P05.Sort_by_string_length.exe
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\P05. Sort by string length\obj\Debug\P05.Sort_by_string_length.pdb

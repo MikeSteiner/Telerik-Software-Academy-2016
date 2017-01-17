@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\bin\Debug\E2.Tribonacci_Triangle.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\bin\Debug\E2.Tribonacci_Triangle.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\bin\Debug\E2.Tribonacci_Triangle.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\obj\Debug\E2. Tribonacci Triangle.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\obj\Debug\E2.Tribonacci_Triangle.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E2. Tribonacci Triangle\obj\Debug\E2.Tribonacci_Triangle.pdb

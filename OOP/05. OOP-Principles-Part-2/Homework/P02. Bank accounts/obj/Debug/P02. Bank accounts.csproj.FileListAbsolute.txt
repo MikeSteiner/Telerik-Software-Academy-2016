@@ -1,1 +1,0 @@
-C:\Academies\Telerik\OOP\05. OOP-Principles-Part-2\Homework\05. OOP-Principles-Part-2\P02. Bank accounts\bin\Debug\P02.Bank_accounts.exe.config

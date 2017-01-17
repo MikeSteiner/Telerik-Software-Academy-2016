@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E3. Number of Digits\bin\Debug\E3.Number_of_Digits_Description.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E3. Number of Digits\bin\Debug\E3.Number_of_Digits_Description.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E3. Number of Digits\bin\Debug\E3.Number_of_Digits_Description.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E3. Number of Digits\obj\Debug\E3.Number_of_Digits_Description.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E3. Number of Digits\obj\Debug\E3.Number_of_Digits_Description.pdb

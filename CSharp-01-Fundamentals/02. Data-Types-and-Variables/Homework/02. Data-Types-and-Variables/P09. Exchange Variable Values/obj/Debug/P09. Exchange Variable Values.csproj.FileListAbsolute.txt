@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P09. Exchange Variable Values\bin\Debug\P09.Exchange_Variable_Values.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P09. Exchange Variable Values\bin\Debug\P09.Exchange_Variable_Values.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P09. Exchange Variable Values\bin\Debug\P09.Exchange_Variable_Values.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P09. Exchange Variable Values\obj\Debug\P09.Exchange_Variable_Values.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P09. Exchange Variable Values\obj\Debug\P09.Exchange_Variable_Values.pdb

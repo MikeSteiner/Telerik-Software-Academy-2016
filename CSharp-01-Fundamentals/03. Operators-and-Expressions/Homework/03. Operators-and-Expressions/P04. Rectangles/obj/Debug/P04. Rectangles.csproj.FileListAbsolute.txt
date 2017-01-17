@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P04. Rectangles\bin\Debug\P04.Rectangles.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P04. Rectangles\bin\Debug\P04.Rectangles.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P04. Rectangles\bin\Debug\P04.Rectangles.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P04. Rectangles\obj\Debug\P04.Rectangles.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P04. Rectangles\obj\Debug\P04.Rectangles.pdb

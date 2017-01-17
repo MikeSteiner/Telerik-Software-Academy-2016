@@ -1,9 +1,0 @@
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\obj\Debug\Santase.Test2.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\Santase.Test2.dll
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\Santase.Test2.pdb
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\nunit.framework.dll
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\Santase.Logic.dll
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\Santase.Logic.pdb
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\bin\Debug\nunit.framework.xml
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\obj\Debug\Santase.Test2.dll
-C:\Academies\Telerik\Unit-Testing\Topics\01. Unit Testing\homework\P02. Unit test the Deck\Santase.Test2\obj\Debug\Santase.Test2.pdb

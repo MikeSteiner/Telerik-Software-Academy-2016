@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\bin\Debug\P4.Maximal_sequence.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\bin\Debug\P4.Maximal_sequence.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\bin\Debug\P4.Maximal_sequence.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\obj\Debug\P04. Maximal sequence.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\obj\Debug\P4.Maximal_sequence.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P04. Maximal sequence\obj\Debug\P4.Maximal_sequence.pdb

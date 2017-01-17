@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\bin\Debug\TA-Exam-2013.12.05-Ev.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\bin\Debug\TA-Exam-2013.12.05-Ev.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\bin\Debug\TA-Exam-2013.12.05-Ev.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\obj\Debug\E1. Peace of Cake.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\obj\Debug\TA-Exam-2013.12.05-Ev.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E1. Peace of Cake\obj\Debug\TA-Exam-2013.12.05-Ev.pdb

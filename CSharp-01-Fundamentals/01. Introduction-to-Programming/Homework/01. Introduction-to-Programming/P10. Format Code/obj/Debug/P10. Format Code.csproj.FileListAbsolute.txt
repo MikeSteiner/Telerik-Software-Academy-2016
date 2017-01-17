@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P10. Format Code\bin\Debug\P10.Format_Code.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P10. Format Code\bin\Debug\P10.Format_Code.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P10. Format Code\bin\Debug\P10.Format_Code.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P10. Format Code\obj\Debug\P10.Format_Code.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P10. Format Code\obj\Debug\P10.Format_Code.pdb

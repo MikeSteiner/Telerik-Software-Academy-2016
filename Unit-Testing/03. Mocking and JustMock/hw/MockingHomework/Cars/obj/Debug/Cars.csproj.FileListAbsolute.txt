@@ -1,5 +1,0 @@
-C:\Academies\Telerik\Unit-Testing\Topics\03. Mocking and JustMock\homework\MockingHomework\Cars\bin\Debug\Cars.dll
-C:\Academies\Telerik\Unit-Testing\Topics\03. Mocking and JustMock\homework\MockingHomework\Cars\bin\Debug\Cars.pdb
-C:\Academies\Telerik\Unit-Testing\Topics\03. Mocking and JustMock\homework\MockingHomework\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit-Testing\Topics\03. Mocking and JustMock\homework\MockingHomework\Cars\obj\Debug\Cars.dll
-C:\Academies\Telerik\Unit-Testing\Topics\03. Mocking and JustMock\homework\MockingHomework\Cars\obj\Debug\Cars.pdb

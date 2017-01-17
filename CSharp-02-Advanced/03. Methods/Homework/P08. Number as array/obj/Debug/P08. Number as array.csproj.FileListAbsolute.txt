@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\bin\Debug\P08.Number_as_array.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\bin\Debug\P08.Number_as_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\bin\Debug\P08.Number_as_array.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\obj\Debug\P08. Number as array.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\obj\Debug\P08.Number_as_array.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P08. Number as array\obj\Debug\P08.Number_as_array.pdb

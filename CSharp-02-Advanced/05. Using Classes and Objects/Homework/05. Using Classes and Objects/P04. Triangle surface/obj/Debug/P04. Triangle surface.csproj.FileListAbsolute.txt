@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\bin\Debug\P04.Triangle_surface.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\bin\Debug\P04.Triangle_surface.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\bin\Debug\P04.Triangle_surface.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\obj\Debug\P04. Triangle surface.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\obj\Debug\P04.Triangle_surface.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P04. Triangle surface\obj\Debug\P04.Triangle_surface.pdb

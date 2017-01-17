@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\bin\Debug\P07.Reverse_number.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\bin\Debug\P07.Reverse_number.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\bin\Debug\P07.Reverse_number.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\obj\Debug\P07. Reverse number.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\obj\Debug\P07.Reverse_number.exe
-C:\Academies\Telerik\CSharp-02-Advanced\03. Methods\Homework\03. Methods\P07. Reverse number\obj\Debug\P07.Reverse_number.pdb

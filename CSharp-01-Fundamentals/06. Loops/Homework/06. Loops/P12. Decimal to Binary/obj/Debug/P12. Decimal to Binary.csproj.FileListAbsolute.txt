@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\bin\Debug\P12.Decimal_to_Binary.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\bin\Debug\P12.Decimal_to_Binary.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\bin\Debug\P12.Decimal_to_Binary.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\obj\Debug\P12. Decimal to Binary.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\obj\Debug\P12.Decimal_to_Binary.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P12. Decimal to Binary\obj\Debug\P12.Decimal_to_Binary.pdb

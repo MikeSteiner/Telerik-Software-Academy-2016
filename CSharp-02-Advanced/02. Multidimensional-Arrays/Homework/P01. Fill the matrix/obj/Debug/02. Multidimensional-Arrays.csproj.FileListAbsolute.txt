@@ -1,1 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\02. Multidimensional-Arrays\Homework\02. Multidimensional-Arrays\02. Multidimensional-Arrays\bin\Debug\_02.Multidimensional_Arrays.exe.config

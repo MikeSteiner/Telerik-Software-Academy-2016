@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P07. First and Last Name\bin\Debug\P07.First_and_Last_Name.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P07. First and Last Name\bin\Debug\P07.First_and_Last_Name.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P07. First and Last Name\bin\Debug\P07.First_and_Last_Name.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P07. First and Last Name\obj\Debug\P07.First_and_Last_Name.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\P07. First and Last Name\obj\Debug\P07.First_and_Last_Name.pdb

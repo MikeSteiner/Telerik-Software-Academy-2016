@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\bin\Debug\P12.N_th_bit.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\bin\Debug\P12.N_th_bit.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\bin\Debug\P12.N_th_bit.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\obj\Debug\P12.N_th_bit.exe
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\obj\Debug\P12.N_th_bit.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\03. Operators-and-Expressions\Homework\03. Operators-and-Expressions\P12. N-th bit\obj\Debug\P12. N-th bit.csprojResolveAssemblyReference.cache

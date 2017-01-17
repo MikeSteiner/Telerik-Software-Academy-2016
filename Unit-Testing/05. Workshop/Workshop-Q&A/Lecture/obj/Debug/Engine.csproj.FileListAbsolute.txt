@@ -1,5 +1,0 @@
-C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture\bin\Debug\Lecture.dll
-C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture\bin\Debug\Lecture.pdb
-C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture\obj\Debug\Engine.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture\obj\Debug\Lecture.dll
-C:\Academies\Telerik\Unit-Testing\05. Workshop\Workshop-Q&A\Lecture\obj\Debug\Lecture.pdb

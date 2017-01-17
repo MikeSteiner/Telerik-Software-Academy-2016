@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P09. Matrix of Numbers\bin\Debug\P09.Matrix_of_Numbers.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P09. Matrix of Numbers\bin\Debug\P09.Matrix_of_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P09. Matrix of Numbers\bin\Debug\P09.Matrix_of_Numbers.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P09. Matrix of Numbers\obj\Debug\P09.Matrix_of_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P09. Matrix of Numbers\obj\Debug\P09.Matrix_of_Numbers.pdb

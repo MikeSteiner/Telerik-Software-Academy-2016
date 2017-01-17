@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P15. Prime numbers\bin\Debug\P15.Prime_numbers.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P15. Prime numbers\bin\Debug\P15.Prime_numbers.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P15. Prime numbers\bin\Debug\P15.Prime_numbers.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P15. Prime numbers\obj\Debug\P15.Prime_numbers.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P15. Prime numbers\obj\Debug\P15.Prime_numbers.pdb

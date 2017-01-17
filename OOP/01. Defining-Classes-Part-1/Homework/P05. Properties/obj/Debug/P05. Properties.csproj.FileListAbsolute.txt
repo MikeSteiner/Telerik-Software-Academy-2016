@@ -1,6 +1,0 @@
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\bin\Debug\P05.Properties.exe.config
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\bin\Debug\P05.Properties.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\bin\Debug\P05.Properties.pdb
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\obj\Debug\P05. Properties.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\obj\Debug\P05.Properties.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P05. Properties\obj\Debug\P05.Properties.pdb

@@ -1,1 +1,0 @@
-C:\Academies\Telerik\OOP\06. Common-Type-System\Homework\06. Common-Type-System\P02. ICloneable\bin\Debug\P02.ICloneable.exe.config

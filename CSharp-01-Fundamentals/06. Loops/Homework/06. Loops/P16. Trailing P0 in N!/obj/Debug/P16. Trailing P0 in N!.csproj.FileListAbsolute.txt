@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\bin\Debug\P16.Trailing_P0_in_N_.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\bin\Debug\P16.Trailing_P0_in_N_.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\bin\Debug\P16.Trailing_P0_in_N_.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\obj\Debug\P16. Trailing P0 in N!.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\obj\Debug\P16.Trailing_P0_in_N_.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P16. Trailing P0 in N!\obj\Debug\P16.Trailing_P0_in_N_.pdb

@@ -1,8 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\bin\Debug\P06.Triangle_surface_2sides_angle.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\bin\Debug\P06.Triangle_surface_2sides_angle.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\bin\Debug\P06.Triangle_surface_2sides_angle.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\bin\Debug\P04.Triangle_surface.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\bin\Debug\P04.Triangle_surface.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\obj\Debug\P06. Triangle surface 2sides angle.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\obj\Debug\P06.Triangle_surface_2sides_angle.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P06. Triangle surface 2sides angle\obj\Debug\P06.Triangle_surface_2sides_angle.pdb

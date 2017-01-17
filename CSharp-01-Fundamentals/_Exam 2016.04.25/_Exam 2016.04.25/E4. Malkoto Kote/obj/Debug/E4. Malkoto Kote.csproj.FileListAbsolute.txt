@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\bin\Debug\E4.Malkoto_Kote.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\bin\Debug\E4.Malkoto_Kote.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\bin\Debug\E4.Malkoto_Kote.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\obj\Debug\E4. Malkoto Kote.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\obj\Debug\E4.Malkoto_Kote.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam 2016.04.25\_Exam 2016.04.25\E4. Malkoto Kote\obj\Debug\E4.Malkoto_Kote.pdb

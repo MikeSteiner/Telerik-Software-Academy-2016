@@ -1,7 +1,0 @@
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\T01. Class_123\bin\Debug\T01.Class_123.exe.config
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\bin\Debug\T01.Class_123.exe.config
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\bin\Debug\T01.Class_123.exe
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\bin\Debug\T01.Class_123.pdb
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\obj\Debug\T01. Class_123.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\obj\Debug\T01.Class_123.exe
-C:\Academies\Telerik\High Quality Code-part-1\Topics\03. Naming-Identifiers\homework\HQC-naming-Identifiers-CSharp\T01. Class_123\obj\Debug\T01.Class_123.pdb

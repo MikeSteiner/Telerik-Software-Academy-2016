@@ -1,7 +1,0 @@
-C:\Academies\Telerik\CSharp-Basic\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\bin\Debug\_01.Introduction_to_Programming.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\bin\Debug\_01.Introduction_to_Programming.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\bin\Debug\_01.Introduction_to_Programming.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\bin\Debug\_01.Introduction_to_Programming.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\obj\Debug\01. Introduction-to-Programming.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\obj\Debug\_01.Introduction_to_Programming.exe
-C:\Academies\Telerik\CSharp-Fundamentals\01. Introduction-to-Programming\Homework\01. Introduction-to-Programming\01. Introduction-to-Programming\obj\Debug\_01.Introduction_to_Programming.pdb

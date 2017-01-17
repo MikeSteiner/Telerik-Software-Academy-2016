@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\bin\Debug\_04.Numeral_Systems.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\bin\Debug\_04.Numeral_Systems.exe
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\bin\Debug\_04.Numeral_Systems.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\obj\Debug\P01. Decimal to binary.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\obj\Debug\_04.Numeral_Systems.exe
-C:\Academies\Telerik\CSharp-02-Advanced\04. Numeral Systems\Homework\04. Numeral Systems\P01. Decimal to binary\obj\Debug\_04.Numeral_Systems.pdb

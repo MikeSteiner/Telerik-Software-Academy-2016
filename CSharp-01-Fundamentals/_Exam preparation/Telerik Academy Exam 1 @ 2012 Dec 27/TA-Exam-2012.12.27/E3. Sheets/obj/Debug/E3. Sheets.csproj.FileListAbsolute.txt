@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\bin\Debug\E3.Sheets.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\bin\Debug\E3.Sheets.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\bin\Debug\E3.Sheets.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\obj\Debug\E3. Sheets.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\obj\Debug\E3.Sheets.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 2012 Dec 27\TA-Exam-2012.12.27\E3. Sheets\obj\Debug\E3.Sheets.pdb

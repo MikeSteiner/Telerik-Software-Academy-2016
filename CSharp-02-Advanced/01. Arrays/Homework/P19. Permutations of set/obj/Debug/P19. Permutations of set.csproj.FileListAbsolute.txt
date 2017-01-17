@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\bin\Debug\P19.Permutations_of_set.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\bin\Debug\P19.Permutations_of_set.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\bin\Debug\P19.Permutations_of_set.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\obj\Debug\P19. Permutations of set.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\obj\Debug\P19.Permutations_of_set.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P19. Permutations of set\obj\Debug\P19.Permutations_of_set.pdb

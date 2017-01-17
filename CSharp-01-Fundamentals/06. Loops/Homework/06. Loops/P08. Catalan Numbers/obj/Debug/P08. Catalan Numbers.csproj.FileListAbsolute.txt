@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P08. Catalan Numbers\bin\Debug\P08.Catalan_Numbers.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P08. Catalan Numbers\bin\Debug\P08.Catalan_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P08. Catalan Numbers\bin\Debug\P08.Catalan_Numbers.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P08. Catalan Numbers\obj\Debug\P08.Catalan_Numbers.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P08. Catalan Numbers\obj\Debug\P08.Catalan_Numbers.pdb

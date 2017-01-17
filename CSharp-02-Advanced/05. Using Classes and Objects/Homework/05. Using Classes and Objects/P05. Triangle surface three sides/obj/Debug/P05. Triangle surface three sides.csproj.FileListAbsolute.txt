@@ -1,8 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\bin\Debug\P05.Triangle_surface_three_sides.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\bin\Debug\P05.Triangle_surface_three_sides.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\bin\Debug\P05.Triangle_surface_three_sides.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\bin\Debug\P04.Triangle_surface.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\bin\Debug\P04.Triangle_surface.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\obj\Debug\P05. Triangle surface three sides.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\obj\Debug\P05.Triangle_surface_three_sides.exe
-C:\Academies\Telerik\CSharp-02-Advanced\05. Using Classes and Objects\Homework\05. Using Classes and Objects\P05. Triangle surface three sides\obj\Debug\P05.Triangle_surface_three_sides.pdb

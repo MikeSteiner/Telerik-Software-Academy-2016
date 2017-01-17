@@ -1,6 +1,0 @@
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\bin\Debug\WarMachines.exe.config
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\bin\Debug\WarMachines.exe
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\bin\Debug\WarMachines.pdb
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\obj\Debug\WarMachines.exe
-C:\Academies\Telerik\Unit-Testing\_Exam prepration\WarMachines\WarMachines\obj\Debug\WarMachines.pdb

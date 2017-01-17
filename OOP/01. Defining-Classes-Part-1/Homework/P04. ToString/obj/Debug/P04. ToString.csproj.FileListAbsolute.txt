@@ -1,6 +1,0 @@
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\bin\Debug\P04.ToString.exe.config
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\bin\Debug\P04.ToString.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\bin\Debug\P04.ToString.pdb
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\obj\Debug\P04. ToString.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\obj\Debug\P04.ToString.exe
-C:\Academies\Telerik\OOP\01. Defining-Classes-Part-1\Homework\01. Defining-Classes-Part-1\P04. ToString\obj\Debug\P04.ToString.pdb

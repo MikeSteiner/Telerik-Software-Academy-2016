@@ -1,1 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\07. Exception-Handling\Homework\07. Exception-Handling\07. Exception-Handling\bin\Debug\_07.Exception_Handling.exe.config

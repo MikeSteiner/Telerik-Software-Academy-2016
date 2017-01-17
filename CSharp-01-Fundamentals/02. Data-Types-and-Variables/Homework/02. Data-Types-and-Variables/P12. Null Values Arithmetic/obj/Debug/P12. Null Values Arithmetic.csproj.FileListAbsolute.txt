@@ -1,5 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P12. Null Values Arithmetic\bin\Debug\P12.Null_Values_Arithmetic.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P12. Null Values Arithmetic\bin\Debug\P12.Null_Values_Arithmetic.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P12. Null Values Arithmetic\bin\Debug\P12.Null_Values_Arithmetic.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P12. Null Values Arithmetic\obj\Debug\P12.Null_Values_Arithmetic.exe
-C:\Academies\Telerik\CSharp-Fundamentals\02. Data-Types-and-Variables\Homework\02. Data-Types-and-Variables\P12. Null Values Arithmetic\obj\Debug\P12.Null_Values_Arithmetic.pdb

@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\bin\Debug\P07.Sort_3_Numbers.exe.config
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\bin\Debug\P07.Sort_3_Numbers.exe
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\bin\Debug\P07.Sort_3_Numbers.pdb
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\obj\Debug\P07. Sort 3 Numbers.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\obj\Debug\P07.Sort_3_Numbers.exe
-C:\Academies\Telerik\CSharp-Fundamentals\05. Conditional-Statements\Homework\05. Conditional-Statements\P07. Sort 3 Numbers\obj\Debug\P07.Sort_3_Numbers.pdb

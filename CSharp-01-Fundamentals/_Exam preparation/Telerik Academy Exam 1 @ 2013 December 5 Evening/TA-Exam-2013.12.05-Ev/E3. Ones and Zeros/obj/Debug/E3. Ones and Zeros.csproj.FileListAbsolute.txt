@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\bin\Debug\E3.Ones_and_Zeros.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\bin\Debug\E3.Ones_and_Zeros.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\bin\Debug\E3.Ones_and_Zeros.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\obj\Debug\E3. Ones and Zeros.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\obj\Debug\E3.Ones_and_Zeros.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 5 December 2013 Evening\TA-Exam-2013.12.05-Ev\E3. Ones and Zeros\obj\Debug\E3.Ones_and_Zeros.pdb

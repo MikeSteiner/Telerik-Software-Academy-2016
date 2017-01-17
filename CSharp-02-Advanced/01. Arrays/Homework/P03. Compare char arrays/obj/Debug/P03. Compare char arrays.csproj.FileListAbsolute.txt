@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\bin\Debug\P3.Compare_char_arrays.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\bin\Debug\P3.Compare_char_arrays.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\bin\Debug\P3.Compare_char_arrays.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\obj\Debug\P03. Compare char arrays.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\obj\Debug\P3.Compare_char_arrays.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P03. Compare char arrays\obj\Debug\P3.Compare_char_arrays.pdb

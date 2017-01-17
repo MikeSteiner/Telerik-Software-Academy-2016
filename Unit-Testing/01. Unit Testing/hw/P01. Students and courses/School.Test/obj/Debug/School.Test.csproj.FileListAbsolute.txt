@@ -1,8 +1,0 @@
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\bin\Debug\School.Test.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\bin\Debug\School.Test.pdb
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\bin\Debug\P01.Students_and_courses.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\bin\Debug\P01.Students_and_courses.pdb
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\obj\Debug\School.Test.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\obj\Debug\School.Test.dll
-C:\Academies\Telerik\Unit Testing\01. Unit Testing\Homework\P01. Students and courses\School.Test\obj\Debug\School.Test.pdb

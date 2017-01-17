@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\bin\Debug\TA-Exam-2013.06.24-Evn.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\bin\Debug\TA-Exam-2013.06.24-Evn.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\bin\Debug\TA-Exam-2013.06.24-Evn.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\obj\Debug\E1. Garden.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\obj\Debug\TA-Exam-2013.06.24-Evn.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\_Exam preparation\Telerik Academy Exam 1 @ 24 June 2013 Evening\TA-Exam-2013.06.24-Evn\E1. Garden\obj\Debug\TA-Exam-2013.06.24-Evn.pdb

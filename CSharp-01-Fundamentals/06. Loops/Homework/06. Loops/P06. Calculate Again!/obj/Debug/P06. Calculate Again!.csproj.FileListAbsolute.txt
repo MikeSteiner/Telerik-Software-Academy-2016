@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\bin\Debug\P06.Calculate_Again_.exe.config
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\bin\Debug\P06.Calculate_Again_.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\bin\Debug\P06.Calculate_Again_.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\obj\Debug\P06.Calculate_Again_.exe
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\obj\Debug\P06.Calculate_Again_.pdb
-C:\Academies\Telerik\CSharp-01-Fundamentals\06. Loops\Homework\06. Loops\P06. Calculate Again!\obj\Debug\P06. Calculate Again!.csprojResolveAssemblyReference.cache

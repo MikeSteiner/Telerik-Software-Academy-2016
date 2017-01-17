@@ -1,6 +1,0 @@
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\bin\Debug\P17.Subset_K_with_sum_S.exe.config
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\bin\Debug\P17.Subset_K_with_sum_S.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\bin\Debug\P17.Subset_K_with_sum_S.pdb
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\obj\Debug\P17. Subset K with sum S.csprojResolveAssemblyReference.cache
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\obj\Debug\P17.Subset_K_with_sum_S.exe
-C:\Academies\Telerik\CSharp-02-Advanced\01. Arrays\Homework\01. Arrays\P17. Subset K with sum S\obj\Debug\P17.Subset_K_with_sum_S.pdb
