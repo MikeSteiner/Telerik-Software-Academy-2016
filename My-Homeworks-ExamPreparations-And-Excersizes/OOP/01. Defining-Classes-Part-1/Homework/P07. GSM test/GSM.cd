@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="P07_GsmTest.Battery" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAEAAAAAAAAABIAAAASAAAAAAAAQQA=</HashCode>
+      <FileName>Battery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P07_GsmTest.Display" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAgAEAQIAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Display.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P07_GsmTest.GSM" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAACIAQAAgAAEAEAAAEAAAAAAAAAACAgAiAAIAAg=</HashCode>
+      <FileName>GSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P07_GsmTest.SmartPhone" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="P07_GsmTest.BattType" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAABAAAAAAA=</HashCode>
+      <FileName>BatteryTypeEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>
